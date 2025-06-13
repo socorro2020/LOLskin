@@ -1,0 +1,2 @@
+1.LOL文件夹里面有个Game文件夹，里面有个名为League of Legends应用程序就说明你找对了，把两个dll扔到Game文件夹里边就行了。
+2.课余时间做的，有问题可联系Telegram:neweaxecx
